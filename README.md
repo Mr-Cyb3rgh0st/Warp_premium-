@@ -5,6 +5,7 @@
 * `pkg upgrade`
 * `pkg install git`
 * `pkg install python `
+* `pip install pycryptodome` 
 * `pkg clone https://github.com/Mr-Cyb3rgh0st/Warp_premium-.git`
 
 
