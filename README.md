@@ -5,7 +5,9 @@
 * `pkg upgrade`
 * `pkg install git`
 * `pkg install python `
-* `pip install pycryptodome` 
+* `pip install pyfiglet`
+* `pip install rainbowtext`
+* `pip install colorama`
 * `pkg clone https://github.com/Mr-Cyb3rgh0st/Warp_premium-.git`
 
 
